@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:core';
-import 'package:crud_app/add_product_screen.dart';
-import 'package:crud_app/model.dart';
-import 'package:crud_app/update_product_screen.dart';
+import 'package:crud_app/Screen/add_product_screen.dart';
+import 'package:crud_app/Model/model.dart';
+import 'package:crud_app/Screen/update_product_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 

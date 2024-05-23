@@ -1,4 +1,4 @@
-import 'package:crud_app/product_list_screen.dart';
+import 'package:crud_app/Screen/product_list_screen.dart';
 import 'package:flutter/material.dart';
 
 class CrudApp extends StatelessWidget {
